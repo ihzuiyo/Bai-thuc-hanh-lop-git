@@ -12,3 +12,4 @@ animations
 bug002
 FIX bug002
 animations for characters
+music and sound effect

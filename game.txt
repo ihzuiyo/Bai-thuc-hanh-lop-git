@@ -6,3 +6,5 @@ settings
 credits
 leaderboard
 animations
+bug002
+FIX bug002

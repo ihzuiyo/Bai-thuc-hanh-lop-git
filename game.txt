@@ -5,3 +5,4 @@ inventory
 settings
 credits
 leaderboard
+animations

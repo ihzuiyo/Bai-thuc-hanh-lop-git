@@ -1,2 +1,7 @@
 base game
 prototype version
+mainmenu
+inventory
+settings
+credits
+leaderboard

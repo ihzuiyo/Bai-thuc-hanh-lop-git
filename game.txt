@@ -3,3 +3,11 @@ prototype version
 gameplay-art
 bug001
 FIX bug001
+mainmenu
+inventory
+settings
+credits
+leaderboard
+animations
+bug002
+FIX bug002

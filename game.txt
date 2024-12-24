@@ -14,3 +14,4 @@ FIX bug002
 intergrate Google Admob
 bug003
 FIX bug003
+intergrate MAX Applovin service
